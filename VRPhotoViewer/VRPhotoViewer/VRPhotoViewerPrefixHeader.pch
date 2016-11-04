@@ -1,0 +1,17 @@
+//
+//  VRPhotoViewerPrefixHeader.pch
+//  VRPhotoViewer
+//
+//  Created by Sankhadeep on 10/03/16.
+//  Copyright © 2016 Sankhadeep. All rights reserved.
+//
+
+#ifndef VRPhotoViewerPrefixHeader_pch
+#define VRPhotoViewerPrefixHeader_pch
+#import "Constant.h"
+#import "Alert.h"
+#import "APIManager.h"
+#import "ValidationClass.h"
+#import "UIImageView+WebCache.h"
+#import "SDWebImageDownloader.h"
+#endif 
