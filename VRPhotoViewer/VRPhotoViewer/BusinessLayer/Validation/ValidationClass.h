@@ -1,8 +1,8 @@
 /********************************************//*!
 * @file ValidationClass.h
 * @brief Contains constants and global parameters
-* Skoop! Inc. ("COMPANY") CONFIDENTIAL
-* Unpublished Copyright (c) 2015-2016 Skoop! Inc., All Rights Reserved.
+* Sankhadeep! Inc. ("COMPANY") CONFIDENTIAL
+* Unpublished Copyright (c) 2015-2016 Sankhadeep! Inc., All Rights Reserved.
 ***********************************************/
 
 #import <Foundation/Foundation.h>
